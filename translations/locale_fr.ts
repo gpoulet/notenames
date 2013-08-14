@@ -7,211 +7,225 @@
         <location filename="../notenames.js" line="93"/>
         <location filename="../notenames.qml" line="63"/>
         <source>C</source>
-        <translation>Do</translation>
+        <translation>do</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="88"/>
         <location filename="../notenames.qml" line="58"/>
         <source>Db</source>
-        <translation>Ré bémol</translation>
+        <translation>ré♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="95"/>
         <location filename="../notenames.qml" line="65"/>
         <source>D</source>
-        <translation>Ré</translation>
+        <translation>ré</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="90"/>
         <location filename="../notenames.qml" line="60"/>
         <source>Eb</source>
-        <translation>Mi bémol</translation>
+        <translation>mi♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="97"/>
         <location filename="../notenames.qml" line="67"/>
         <source>E</source>
-        <translation>Mi</translation>
+        <translation>mi</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="92"/>
         <location filename="../notenames.qml" line="62"/>
         <source>F</source>
-        <translation>Fa</translation>
+        <translation>fa</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="77"/>
         <location filename="../notenames.qml" line="47"/>
         <source>Fbb</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Apparently there is no double b in Unicode</translatorcomment>
+        <translation>fa♭♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="78"/>
         <location filename="../notenames.qml" line="48"/>
         <source>Cbb</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Apparently there is no double b in Unicode</translatorcomment>
+        <translation>do♭♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="79"/>
         <location filename="../notenames.qml" line="49"/>
         <source>Gbb</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Apparently there is no double b in Unicode</translatorcomment>
+        <translation>sol♭♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="80"/>
         <location filename="../notenames.qml" line="50"/>
         <source>Dbb</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Apparently there is no double b in Unicode</translatorcomment>
+        <translation>ré♭♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="81"/>
         <location filename="../notenames.qml" line="51"/>
         <source>Abb</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Apparently there is no double b in Unicode</translatorcomment>
+        <translation>la♭♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="82"/>
         <location filename="../notenames.qml" line="52"/>
         <source>Ebb</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Apparently there is no double b in Unicode</translatorcomment>
+        <translation>mi♭♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="83"/>
         <location filename="../notenames.qml" line="53"/>
         <source>Bbb</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Apparently there is no double b in Unicode</translatorcomment>
+        <translation>si♭♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="84"/>
         <location filename="../notenames.qml" line="54"/>
         <source>Fb</source>
-        <translation type="unfinished"></translation>
+        <translation>fa♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="85"/>
         <location filename="../notenames.qml" line="55"/>
         <source>Cb</source>
-        <translation type="unfinished"></translation>
+        <translation>do♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="87"/>
         <location filename="../notenames.qml" line="57"/>
         <source>Gb</source>
-        <translation>Sol bémol</translation>
+        <translation>sol♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="94"/>
         <location filename="../notenames.qml" line="64"/>
         <source>G</source>
-        <translation>Sol</translation>
+        <translation>sol</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="89"/>
         <location filename="../notenames.qml" line="59"/>
         <source>Ab</source>
-        <translation>La bémol</translation>
+        <translation>la♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="96"/>
         <location filename="../notenames.qml" line="66"/>
         <source>A</source>
-        <translation>La</translation>
+        <translation>la</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="91"/>
         <location filename="../notenames.qml" line="61"/>
         <source>Bb</source>
-        <translation>Si bémol</translation>
+        <translation>si♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="98"/>
         <location filename="../notenames.qml" line="68"/>
         <source>B</source>
-        <translation>Si</translation>
+        <translation>si</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="100"/>
         <location filename="../notenames.qml" line="70"/>
         <source>F#</source>
-        <translation>Fa dièse</translation>
+        <translation>fa#</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="101"/>
         <location filename="../notenames.qml" line="71"/>
         <source>C#</source>
-        <translation>Do dièse</translation>
+        <translation>do#</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="102"/>
         <location filename="../notenames.qml" line="72"/>
         <source>G#</source>
-        <translation>Sol dièse</translation>
+        <translation>sol#</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="103"/>
         <location filename="../notenames.qml" line="73"/>
         <source>D#</source>
-        <translation>Ré dièse</translation>
+        <translation>ré#</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="104"/>
         <location filename="../notenames.qml" line="74"/>
         <source>A#</source>
-        <translation>La dièse</translation>
+        <translation>la#</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="105"/>
         <location filename="../notenames.qml" line="75"/>
         <source>E#</source>
-        <translation type="unfinished"></translation>
+        <translation>mi#</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="106"/>
         <location filename="../notenames.qml" line="76"/>
         <source>B#</source>
-        <translation type="unfinished"></translation>
+        <translation>fa#</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="107"/>
         <location filename="../notenames.qml" line="77"/>
         <source>F##</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>double # in Unicode is at U+1D12A, &quot;ð„ª&quot;</translatorcomment>
+        <translation>fa##</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="108"/>
         <location filename="../notenames.qml" line="78"/>
         <source>C##</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>double # in Unicode is at U+1D12A, &quot;ð„ª&quot;</translatorcomment>
+        <translation>do##</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="109"/>
         <location filename="../notenames.qml" line="79"/>
         <source>G##</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>double # in Unicode is at U+1D12A, &quot;ð„ª&quot;</translatorcomment>
+        <translation>sol##</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="110"/>
         <location filename="../notenames.qml" line="80"/>
         <source>D##</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>double # in Unicode is at U+1D12A, &quot;ð„ª&quot;</translatorcomment>
+        <translation>ré##</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="111"/>
         <location filename="../notenames.qml" line="81"/>
         <source>A##</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>double # in Unicode is at U+1D12A, &quot;ð„ª&quot;</translatorcomment>
+        <translation>la##</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="112"/>
         <location filename="../notenames.qml" line="82"/>
         <source>E##</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>double # in Unicode is at U+1D12A, &quot;ð„ª&quot;</translatorcomment>
+        <translation>mi##</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="113"/>
         <location filename="../notenames.qml" line="83"/>
         <source>B##</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>double # in Unicode is at U+1D12A, &quot;ð„ª&quot;</translatorcomment>
+        <translation>si##</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="114"/>
@@ -219,31 +233,33 @@
         <location filename="../notenames.qml" line="84"/>
         <location filename="../notenames.qml" line="119"/>
         <source>?</source>
-        <translation type="unfinished"></translation>
+        <translation>?</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="123"/>
         <location filename="../notenames.qml" line="93"/>
         <source>#</source>
-        <translation type="unfinished"></translation>
+        <translation>#</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="124"/>
         <location filename="../notenames.qml" line="94"/>
         <source>b</source>
-        <translation type="unfinished"></translation>
+        <translation>♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="125"/>
         <location filename="../notenames.qml" line="95"/>
         <source>##</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>double # in Unicode is at U+1D12A, &quot;ð„ª&quot;</translatorcomment>
+        <translation>##</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="126"/>
         <location filename="../notenames.qml" line="96"/>
         <source>bb</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Apparently there is no double b in Unicode</translatorcomment>
+        <translation>♭♭</translation>
     </message>
     <message>
         <location filename="../notenames.js" line="127"/>
@@ -381,7 +397,7 @@
         <location filename="../notenames.js" line="176"/>
         <location filename="../notenames.qml" line="29"/>
         <source>Note Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Note Names</translation>
     </message>
     <message>
         <location filename="../notenames.qml" line="28"/>
