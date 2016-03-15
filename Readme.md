@@ -6,12 +6,12 @@ x x x x x x x x x x x x x x x x x x
 
 Ceci est un fork du projet "Note Name plugin" de [Jojo-Schmitz] (https://github.com/Jojo-Schmitz/notenames)
 
-C'est un plugin qui permet d'afficher à la base les notes en lettre (écriture anglaise) : A pour la, B pour si, etc.
-Il est présent de base dans MuseScore (j'utilise la version 1.3).
+C'est un plugin qui permet d'afficher Ã  la base les notes en lettre (Ã©criture anglaise) : A pour la, B pour si, etc.
+Il est prÃ©sent de base dans MuseScore (j'utilise la version 1.3).
 
-Jojo-Schmitz a amélioré celui-ci. Il est censé remplacer celui de base.
+Jojo-Schmitz a amÃ©liorÃ© celui-ci. Il est censÃ© remplacer celui de base.
 
-J'ai modifié le fichier de traduction français pour réduire la longueur des chaines
+J'ai modifiÃ© le fichier de traduction franÃ§ais pour rÃ©duire la longueur des chaines
 (ex : remplacement de "Fa diese" par "fa#")
 
 
@@ -19,33 +19,33 @@ J'ai modifié le fichier de traduction français pour réduire la longueur des chai
 INSTRUCTIONS D'INSTALLATION (Windows)
 --------------------------
 
-1) Télécharger le projet ("Download ZIP" en bas à droite")
-Normalement le fichier téléchargé doit s'appeller "notenames-master.zip"
+1) TÃ©lÃ©charger le projet ("Download ZIP" en bas Ã  droite")
+Normalement le fichier tÃ©lÃ©chargÃ© doit s'appeller "notenames-master.zip"
 
-2) Décompressez l'archive. On devrait donc avoir nos fichiers décompressé présents dans un dossier /notenames-master/
+2) DÃ©compressez l'archive. On devrait donc avoir nos fichiers dÃ©compressÃ© prÃ©sents dans un dossier /notenames-master/
 
-3) Se rendre dans le répertoire /plugins/ présent dans le répertoire d'installation
+3) Se rendre dans le rÃ©pertoire /plugins/ prÃ©sent dans le rÃ©pertoire d'installation
 ex : C:\Program Files(x86)\MuseScore\plugins
 
 4) Supprimer le fichier "notenames.js"
 
-5) Déplacer le contenu de /notenames-master/ (dossier décompressé) dans /plugins/ (présent dans le répertoire d'installation) :
+5) DÃ©placer le contenu de /notenames-master/ (dossier dÃ©compressÃ©) dans /plugins/ (prÃ©sent dans le rÃ©pertoire d'installation) :
 
-8 152 notenames.js
-7 550 notenames.qml
-1 789 Readme.md
+8Â 152 notenames.js
+7Â 550 notenames.qml
+1Â 789 Readme.md
 <REP> /translations/
 
-6) Télécharger le framework Qt sur http://qt-project.org/downloads
+6) TÃ©lÃ©charger le framework Qt sur http://qt-project.org/downloads
 
 Prenez cette version : Qt 5.1.0 for Windows 32-bit (MinGW 4.8, OpenGL, 666 MB)
 (Il faut obligatoirement avoir MinGW avec Qt)
 
-7) Installer le framework Qt que vous venez de télécharger
+7) Installer le framework Qt que vous venez de tÃ©lÃ©charger
 
-8) Ouvrir avec un éditeur de texte le fichier C:\Program Files (x86)\MuseScore\plugins\translations\lrelease.cmd
+8) Ouvrir avec un Ã©diteur de texte le fichier C:\Program Files (x86)\MuseScore\plugins\translations\lrelease.cmd
 
-9) Modifier le chemin d'accès pour qu'il pointe sur lrelease.exe présent dans le dossier \bin\ de l'installation de minGW
+9) Modifier le chemin d'accÃ¨s pour qu'il pointe sur lrelease.exe prÃ©sent dans le dossier \bin\ de l'installation de minGW
 
 ex : C:/Qt/Qt5.1.0/5.1.0/mingw48_32/bin/lrelease
 (C'est bien des Slash, pas des Antislash)
@@ -59,13 +59,13 @@ pause
 
 11) Lancer en faisant un double-clic le fichier C:\Program Files (x86)\MuseScore\plugins\translations\lrelease.cmd
 
-12) Normalement le fichier s'exécute et termine sur le message "pause". Appuyez sur la touche ESPACE par exemple. La fenêtre se ferme.
+12) Normalement le fichier s'exÃ©cute et termine sur le message "pause". Appuyez sur la touche ESPACE par exemple. La fenÃªtre se ferme.
 
-13) Le plugin est à présent utilisable dans MuseScore : Plugins > Notes > Notes Names
+13) Le plugin est Ã  prÃ©sent utilisable dans MuseScore : Plugins > Notes > Notes Names
 
-Il y a quelques ajustement à faire évidemment pour que ça soit parfait, par exemple mettre la queue des notes en bas, sinon le nom des notes est caché par celles-ci.
+Il y a quelques ajustement Ã  faire Ã©videmment pour que Ã§a soit parfait, par exemple mettre la queue des notes en bas, sinon le nom des notes est cachÃ© par celles-ci.
 
-/!\ J'ai les notes qui se chevauchent car ça m'affiche "Fa diese" au lieu de "fa#" /!\
+/!\ J'ai les notes qui se chevauchent car Ã§a m'affiche "Fa diese" au lieu de "fa#" /!\
 Vous avez mal suivi les instructions : reprenez au 7) >:-D
 
 
@@ -77,7 +77,7 @@ A venir (contributions les bienvenues)
 
 
 
-INSTRUCTIONS D'INSTALLATION (Windows) :
+INSTRUCTIONS D'INSTALLATION (Linux) :
 ----------------------------------------
 
 A venir (contributions les bienvenues)
